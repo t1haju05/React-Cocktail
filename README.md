@@ -1,3 +1,8 @@
+# React Cocktail app
+React Cocktail app made using [The Cocktail DB](https://thecocktaildb.com)
+
+![Screenshot](Screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
